@@ -1,1 +1,3 @@
-My first readme. tips is updated
+## Welcome to Alx-zero_day Repository!
+
+This repository is part of the ALX Africa Software Engineering program, where we delve into the fundamentals of software development, version control with Git, and essential bash commands. Here, you'll find a collection of projects, exercises, and assignments designed to help me grasp the basics of coding, understand the importance of collaboration using Git, and get started on my journey to becoming a proficient software engineer. Feel free to explore the contents of this repository, commits of my code, and collaboration with my peers as we embark on this exciting learning adventure with ALX Africa!
